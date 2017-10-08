@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.hello {
+    background-color: aquamarine;
+}
