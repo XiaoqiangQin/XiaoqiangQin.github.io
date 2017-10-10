@@ -1,5 +1,5 @@
 import React from 'react'
 import {render} from 'react-dom'
-import Hello from './moduleOne'
+import Article from './component/article'
 
-render(<Hello/>, document.querySelector(".container"));
+render(<Article/>, document.querySelector(".container"));

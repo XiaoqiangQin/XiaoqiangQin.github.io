@@ -1,11 +1,20 @@
-html {
-    box-sizing: border-box;
-}
-
-body {
-    background-color: aquamarine;
-}
-
 .hello {
     background-color: aquamarine;
+}
+
+.articleMenu {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.articleMenu ul{
+    list-style: none;
+}
+
+.articleMenu ul li{
+    float: left;
+    width: 25%;
+    text-align: center;
 }
